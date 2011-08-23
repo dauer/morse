@@ -1,7 +1,7 @@
 Morse
 ==========
 
-Converts plain text to norsecode
+Converts plain text to morsecode
 
 Usage
 -----
